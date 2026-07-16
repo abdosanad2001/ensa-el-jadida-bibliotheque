@@ -1,7 +1,13 @@
 # 📚 eLibrary - Système de Gestion de Bibliothèque
 
-Projet de fin de module développé par Mohamed Segnidi et abdelali sanad dans le cadre de nos études à l'ENSA El Jadida.
+Projet de fin de module développé par Abdelali Sanad et Mohamed Segnidi dans le cadre de nos études à l'ENSA El Jadida.
 Il s'agit d'une application web complète et sécurisée permettant de gérer les emprunts, les utilisateurs et le catalogue d'une bibliothèque.
+
+## 👨‍💻 Mes Contributions (Abdelali Sanad)
+Dans le cadre de ce travail en binôme, je me suis particulièrement concentré sur :
+- **Conception & Base de données :** Modélisation de la base de données et gestion des migrations avec MySQL.
+- **Développement Back-end :** Création de l'API RESTful sécurisée avec Laravel.
+- **Intégration & Workflow :** Intégration fluide des endpoints API avec l'interface React et gestion des versions via Git.
 
 ## 🛠️ Technologies Utilisées
 - **Front-end :** ReactJS (intégré avec Vite)
